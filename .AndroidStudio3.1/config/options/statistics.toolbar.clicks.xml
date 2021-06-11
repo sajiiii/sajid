@@ -1,0 +1,8 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="ExternalSystem.RefreshAllProjects@Gradle View Toolbar" count="1" />
+      <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$5@CompilerMessagesToolbar" count="1" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,19 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Paste" count="2" />
+      <entry action="EditorBackSpace" count="11" />
+      <entry action="EditorCopy" count="4" />
+      <entry action="EditorDown" count="9" />
+      <entry action="EditorEnter" count="3" />
+      <entry action="EditorLeft" count="1" />
+      <entry action="EditorLeftWithSelection" count="109" />
+      <entry action="EditorPaste" count="3" />
+      <entry action="EditorRight" count="7" />
+      <entry action="EditorUp" count="1" />
+      <entry action="ExternalSystem.RefreshAllProjects" count="1" />
+      <entry action="NewProject" count="2" />
+      <entry action="RebuildGradleProject" count="1" />
+    </counts>
+  </component>
+</application>
